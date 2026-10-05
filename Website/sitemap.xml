@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>[GITHUB_PAGES_BASE_URL]/</loc></url>
+  <url><loc>[GITHUB_PAGES_BASE_URL]/privacy/</loc></url>
+  <url><loc>[GITHUB_PAGES_BASE_URL]/terms/</loc></url>
+  <url><loc>[GITHUB_PAGES_BASE_URL]/support/</loc></url>
+  <url><loc>[GITHUB_PAGES_BASE_URL]/ru/</loc></url>
+  <url><loc>[GITHUB_PAGES_BASE_URL]/ru/privacy/</loc></url>
+  <url><loc>[GITHUB_PAGES_BASE_URL]/ru/terms/</loc></url>
+  <url><loc>[GITHUB_PAGES_BASE_URL]/ru/support/</loc></url>
+  <url><loc>[GITHUB_PAGES_BASE_URL]/de/</loc></url>
+  <url><loc>[GITHUB_PAGES_BASE_URL]/de/privacy/</loc></url>
+  <url><loc>[GITHUB_PAGES_BASE_URL]/de/terms/</loc></url>
+  <url><loc>[GITHUB_PAGES_BASE_URL]/de/support/</loc></url>
+  <url><loc>[GITHUB_PAGES_BASE_URL]/uk/</loc></url>
+  <url><loc>[GITHUB_PAGES_BASE_URL]/uk/privacy/</loc></url>
+  <url><loc>[GITHUB_PAGES_BASE_URL]/uk/terms/</loc></url>
+  <url><loc>[GITHUB_PAGES_BASE_URL]/uk/support/</loc></url>
+</urlset>
